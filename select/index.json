@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "地球最後の告白を（feat. GUMI）",
+  "base_artist": "kemu",
+  "createdAt": "2026-02-25T16:16:06.566063Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "地球最後の告白を feat.GUMI",
+      "artist": "Kemu, GUMI",
+      "has_synced": true,
+      "path": "select/01_地球最後の告白を_feat.GUMI_Kemu,_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "地球最後の告白を feat.GUMI",
+      "artist": "Kemu",
+      "has_synced": true,
+      "path": "select/02_地球最後の告白を_feat.GUMI_Kemu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "地球最後の告白を feat.GUMI",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/03_地球最後の告白を_feat.GUMI_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "地球最後の告白を (feat. 桐谷遥&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_地球最後の告白を_(feat._桐谷遥&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "地球最後の告白を (feat. Kiritani Haruka & Hinomori Shizuku & Megurine Luka)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_地球最後の告白を_(feat._Kiritani_Haruka_&_Hinomori_Shizuku_&_Megurine_Luka)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "地球最後の告白を (feat․ 歌和サクラ)",
+      "artist": "kemu",
+      "has_synced": false,
+      "path": "select/06_地球最後の告白を_(feat._歌和サクラ)_kemu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "地球最後の告白を feat.GUMI",
+      "artist": "kemu",
+      "has_synced": false,
+      "path": "select/pl_01_地球最後の告白を_feat.GUMI_kemu.txt"
+    }
+  ]
+}
